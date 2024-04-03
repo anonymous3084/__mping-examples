@@ -1,0 +1,7 @@
+/build/
+/.dir-locals.el
+/.cache/
+*.pdf
+compile_commands.json
+Pipfile.lock
+experiment_data
